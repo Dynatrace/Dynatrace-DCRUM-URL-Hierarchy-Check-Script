@@ -6,7 +6,7 @@
 | Description | This script checks for consistency of the URL hierarchy in the CAS database.
 | Author | Radoslaw Szulgo
 | Version | 1.3
-| Download |[url_hierarchy_check.zip]url_hierarchy_check.zip)
+| Download |[url_hierarchy_check.zip](url_hierarchy_check.zip)
 
 Note, that the latest version of this script is delivered with CAS installation and if the server is operational can be run by following below steps:
 
